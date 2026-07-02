@@ -4,25 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_AI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/BMI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/calculate_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/cricle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/shoppong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/temperature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test01.py" afterDir="false" />
+    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="第2天：条件判断&#10;学习内容&#10;&#10;学习：&#10;&#10;比较运算符&#10;if&#10;elif&#10;else&#10;逻辑运算符and、or、not&#10;嵌套条件&#10;条件判断的执行顺序">
+      <change afterPath="$PROJECT_DIR$/day03/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/test04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/test05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/test06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +51,12 @@
     "Python.shoppong.executor": "Run",
     "Python.temperature.executor": "Run",
     "Python.test01.executor": "Run",
+    "Python.test02.executor": "Run",
+    "Python.test03.executor": "Run",
+    "Python.test04.executor": "Run",
+    "Python.test05.executor": "Run",
+    "Python.test06.executor": "Run",
+    "Python.test07.executor": "Run",
     "Python.time.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -88,9 +84,42 @@
       <option name="presentableId" value="Default" />
       <updated>1782910732245</updated>
     </task>
+    <task id="LOCAL-00001" summary="学习：&#10;&#10;print()输出&#10;注释&#10;变量&#10;变量命名规则&#10;整数int&#10;小数float&#10;字符串str&#10;布尔值bool&#10;type()&#10;input()&#10;类型转换">
+      <option name="closed" value="true" />
+      <created>1782915495009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782915495010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第2天：条件判断&#10;学习内容&#10;&#10;学习：&#10;&#10;比较运算符&#10;if&#10;elif&#10;else&#10;逻辑运算符and、or、not&#10;嵌套条件&#10;条件判断的执行顺序">
+      <option name="closed" value="true" />
+      <created>1782966270466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782966270466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习：&#10;&#10;print()输出&#10;注释&#10;变量&#10;变量命名规则&#10;整数int&#10;小数float&#10;字符串str&#10;布尔值bool&#10;type()&#10;input()&#10;类型转换" />
+    <MESSAGE value="第2天：条件判断&#10;学习内容&#10;&#10;学习：&#10;&#10;比较运算符&#10;if&#10;elif&#10;else&#10;逻辑运算符and、or、not&#10;嵌套条件&#10;条件判断的执行顺序" />
+    <option name="LAST_COMMIT_MESSAGE" value="第2天：条件判断&#10;学习内容&#10;&#10;学习：&#10;&#10;比较运算符&#10;if&#10;elif&#10;else&#10;逻辑运算符and、or、not&#10;嵌套条件&#10;条件判断的执行顺序" />
   </component>
 </project>
