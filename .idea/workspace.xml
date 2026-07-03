@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="第2天：条件判断&#10;学习内容&#10;&#10;学习：&#10;&#10;比较运算符&#10;if&#10;elif&#10;else&#10;逻辑运算符and、or、not&#10;嵌套条件&#10;条件判断的执行顺序">
-      <change afterPath="$PROJECT_DIR$/day03/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/test03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/test04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/test05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/test06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test03.py" afterDir="false" />
+    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="学习内容&#10;&#10;学习：&#10;&#10;for循环&#10;while循环&#10;range()&#10;break&#10;continue&#10;循环计数&#10;循环累加&#10;嵌套循环">
+      <change afterPath="$PROJECT_DIR$/day04/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/test04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/test05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/test06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,10 +29,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Fu2eyADfZfYqKIvDpgiqp6xsmu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,6 +59,7 @@
     "Python.test07.executor": "Run",
     "Python.time.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782966270466</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="学习内容&#10;&#10;学习：&#10;&#10;for循环&#10;while循环&#10;range()&#10;break&#10;continue&#10;循环计数&#10;循环累加&#10;嵌套循环">
+      <option name="closed" value="true" />
+      <created>1782993383605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782993383605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="学习：&#10;&#10;print()输出&#10;注释&#10;变量&#10;变量命名规则&#10;整数int&#10;小数float&#10;字符串str&#10;布尔值bool&#10;type()&#10;input()&#10;类型转换" />
     <MESSAGE value="第2天：条件判断&#10;学习内容&#10;&#10;学习：&#10;&#10;比较运算符&#10;if&#10;elif&#10;else&#10;逻辑运算符and、or、not&#10;嵌套条件&#10;条件判断的执行顺序" />
-    <option name="LAST_COMMIT_MESSAGE" value="第2天：条件判断&#10;学习内容&#10;&#10;学习：&#10;&#10;比较运算符&#10;if&#10;elif&#10;else&#10;逻辑运算符and、or、not&#10;嵌套条件&#10;条件判断的执行顺序" />
+    <MESSAGE value="学习内容&#10;&#10;学习：&#10;&#10;for循环&#10;while循环&#10;range()&#10;break&#10;continue&#10;循环计数&#10;循环累加&#10;嵌套循环" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习内容&#10;&#10;学习：&#10;&#10;for循环&#10;while循环&#10;range()&#10;break&#10;continue&#10;循环计数&#10;循环累加&#10;嵌套循环" />
   </component>
 </project>
