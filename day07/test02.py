@@ -23,3 +23,4 @@ with open("student.json","w",encoding="utf-8") as f:
 data = {"课程":"Python","人数":30}
 with open("course.json","w",encoding="utf-8") as f:
     json.dump(data,f,ensure_ascii=False,indent=4)
+

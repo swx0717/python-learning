@@ -7,6 +7,7 @@ with open("person.json","w",encoding="utf-8") as f:
 
 print(person)
 
+
 fruits = ["apple", "banana", "cherry"]
 
 with open("fruit.json","w",encoding="utf-8") as f:

@@ -2,7 +2,7 @@ import json
 
 def load_json(filename):
     try:
-        with open(filename,"r",encoding="utf-8") as f:
+        with open(filename,"r",) as f:
                 return json.load(f)
     except(FileNotFoundError,json.decoder.JSONDecodeError):
         return {}
@@ -26,3 +26,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

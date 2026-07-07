@@ -47,3 +47,4 @@ print("Bob的成绩修改为了95")
 print("当前所有学生:")
 for s in students:
     print(f"{s['name']},{s['score']}")
+
