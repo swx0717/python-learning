@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="文件读写&#10;学习内容&#10;open()&#10;with open()&#10;文件模式：r、w、a&#10;read()&#10;readline()&#10;readlines()&#10;write()&#10;文件编码：encoding=&quot;utf-8&quot;&#10;文件路径基础">
-      <change afterPath="$PROJECT_DIR$/day05/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/test03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/test04.py" afterDir="false" />
+    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="JSON数据持久化&#10;学习内容&#10;JSON是什么&#10;Python字典与JSON的关系&#10;import json&#10;json.dump()&#10;json.load()&#10;ensure_ascii=False&#10;indent=4">
+      <change afterPath="$PROJECT_DIR$/day07/test06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/test07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/test05.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/test05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783230864757</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JSON数据持久化&#10;学习内容&#10;JSON是什么&#10;Python字典与JSON的关系&#10;import json&#10;json.dump()&#10;json.load()&#10;ensure_ascii=False&#10;indent=4">
+      <option name="closed" value="true" />
+      <created>1783412634101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783412634101</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +186,8 @@
     <MESSAGE value="学习内容&#10;&#10;学习：&#10;&#10;for循环&#10;while循环&#10;range()&#10;break&#10;continue&#10;循环计数&#10;循环累加&#10;嵌套循环" />
     <MESSAGE value="列表、字典、字符串&#10;&#10;学习：&#10;&#10;list&#10;dict&#10;字符串切片&#10;split&#10;strip&#10;replace&#10;append&#10;remove&#10;items" />
     <MESSAGE value="文件读写&#10;学习内容&#10;open()&#10;with open()&#10;文件模式：r、w、a&#10;read()&#10;readline()&#10;readlines()&#10;write()&#10;文件编码：encoding=&quot;utf-8&quot;&#10;文件路径基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="文件读写&#10;学习内容&#10;open()&#10;with open()&#10;文件模式：r、w、a&#10;read()&#10;readline()&#10;readlines()&#10;write()&#10;文件编码：encoding=&quot;utf-8&quot;&#10;文件路径基础" />
+    <MESSAGE value="JSON数据持久化&#10;学习内容&#10;JSON是什么&#10;Python字典与JSON的关系&#10;import json&#10;json.dump()&#10;json.load()&#10;ensure_ascii=False&#10;indent=4" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSON数据持久化&#10;学习内容&#10;JSON是什么&#10;Python字典与JSON的关系&#10;import json&#10;json.dump()&#10;json.load()&#10;ensure_ascii=False&#10;indent=4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
