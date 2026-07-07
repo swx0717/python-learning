@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="列表、字典、字符串&#10;&#10;学习：&#10;&#10;list&#10;dict&#10;字符串切片&#10;split&#10;strip&#10;replace&#10;append&#10;remove&#10;items">
+    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="文件读写&#10;学习内容&#10;open()&#10;with open()&#10;文件模式：r、w、a&#10;read()&#10;readline()&#10;readlines()&#10;write()&#10;文件编码：encoding=&quot;utf-8&quot;&#10;文件路径基础">
       <change afterPath="$PROJECT_DIR$/day05/test01.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day05/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/test03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/test04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783084682610</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="文件读写&#10;学习内容&#10;open()&#10;with open()&#10;文件模式：r、w、a&#10;read()&#10;readline()&#10;readlines()&#10;write()&#10;文件编码：encoding=&quot;utf-8&quot;&#10;文件路径基础">
+      <option name="closed" value="true" />
+      <created>1783230864757</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783230864757</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +180,8 @@
     <MESSAGE value="第2天：条件判断&#10;学习内容&#10;&#10;学习：&#10;&#10;比较运算符&#10;if&#10;elif&#10;else&#10;逻辑运算符and、or、not&#10;嵌套条件&#10;条件判断的执行顺序" />
     <MESSAGE value="学习内容&#10;&#10;学习：&#10;&#10;for循环&#10;while循环&#10;range()&#10;break&#10;continue&#10;循环计数&#10;循环累加&#10;嵌套循环" />
     <MESSAGE value="列表、字典、字符串&#10;&#10;学习：&#10;&#10;list&#10;dict&#10;字符串切片&#10;split&#10;strip&#10;replace&#10;append&#10;remove&#10;items" />
-    <option name="LAST_COMMIT_MESSAGE" value="列表、字典、字符串&#10;&#10;学习：&#10;&#10;list&#10;dict&#10;字符串切片&#10;split&#10;strip&#10;replace&#10;append&#10;remove&#10;items" />
+    <MESSAGE value="文件读写&#10;学习内容&#10;open()&#10;with open()&#10;文件模式：r、w、a&#10;read()&#10;readline()&#10;readlines()&#10;write()&#10;文件编码：encoding=&quot;utf-8&quot;&#10;文件路径基础" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件读写&#10;学习内容&#10;open()&#10;with open()&#10;文件模式：r、w、a&#10;read()&#10;readline()&#10;readlines()&#10;write()&#10;文件编码：encoding=&quot;utf-8&quot;&#10;文件路径基础" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
