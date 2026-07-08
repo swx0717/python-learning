@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="JSON数据持久化&#10;学习内容&#10;JSON是什么&#10;Python字典与JSON的关系&#10;import json&#10;json.dump()&#10;json.load()&#10;ensure_ascii=False&#10;indent=4" />
+    <list default="true" id="1f9a2f5c-3243-4e01-a0b6-c19b66d9b122" name="更改" comment="JSON数据持久化&#10;学习内容&#10;JSON是什么&#10;Python字典与JSON的关系&#10;import json&#10;json.dump()&#10;json.load()&#10;ensure_ascii=False&#10;indent=4">
+      <change afterPath="$PROJECT_DIR$/test/test06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1783419462368</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="JSON数据持久化&#10;学习内容&#10;JSON是什么&#10;Python字典与JSON的关系&#10;import json&#10;json.dump()&#10;json.load()&#10;ensure_ascii=False&#10;indent=4">
+      <option name="closed" value="true" />
+      <created>1783438053728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1783438053728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="JSON数据持久化&#10;学习内容&#10;JSON是什么&#10;Python字典与JSON的关系&#10;import json&#10;json.dump()&#10;json.load()&#10;ensure_ascii=False&#10;indent=4">
+      <option name="closed" value="true" />
+      <created>1783438269039</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1783438269039</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
